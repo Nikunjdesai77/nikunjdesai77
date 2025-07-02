@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj</h1>
-<h3 align="center">A passionate ML engineer from India</h3>
+<h3 align="center"></h3>🌱 Currently I'M Learning Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjdesai77&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjdesai77" /> </p>
 
